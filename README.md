@@ -54,8 +54,7 @@
 | Glenn Hubbard           | Section 001       | glennburger          | https://github.com/glennburger/stat184                   |  
 | Krish Parikh            | Section 002       | kap6006              | https://github.com/kap6006/GitHub-Practice-184           |
 | Dylan DeJean            | Section 002       | dylandejean          | https://github.com/dylandejean/dejean-stat184            |
-
-
+| Haoyu Lyu               | Section 002       | Howell429            | https://github.com/Howell429/GitHub-Practice-184         |
 <br>
 
 # Integration of RStudio with Git
